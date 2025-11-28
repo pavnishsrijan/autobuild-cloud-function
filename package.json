@@ -1,0 +1,20 @@
+{
+  "name": "contentstack-cloud-functions",
+  "version": "1.0.0",
+  "description": "Contentstack Launch Cloud Functions for autobuild webhook",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contentstack",
+    "launch",
+    "cloud-functions",
+    "webhook"
+  ],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
