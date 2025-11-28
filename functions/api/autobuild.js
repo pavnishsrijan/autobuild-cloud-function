@@ -6,7 +6,6 @@ export default async function handler(request, response) {
       message: 'Method not allowed',
     });
   }
-
   try {
     // Basic Auth validation
     const authHeader = request.headers.authorization;
